@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="Visão Computacional — Python, OpenCV e SENAI">
+  <defs>
+    <linearGradient id="gradiente" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2E1065"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" rx="12" fill="url(#gradiente)"/>
+  <text x="450" y="87" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="bold" fill="#FFFFFF" text-anchor="middle">VISÃO COMPUTACIONAL</text>
+  <text x="450" y="123" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#FFFFFF" text-anchor="middle">Python • OpenCV • SENAI</text>
+</svg>
