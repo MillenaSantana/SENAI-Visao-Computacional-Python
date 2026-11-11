@@ -62,7 +62,7 @@ Exploração da representação digital de imagens, conversão para tons de cinz
 
 **Tecnologias:** Python e OpenCV.
 
-[![VER PROJETO](https://img.shields.io/badge/VER_PROJETO-7C3AED?style=for-the-badge&logo=github&logoColor=white)](./01-Como-o-Computador-Ve/)
+[![VER PROJETO](https://img.shields.io/badge/VER_PROJETO-7C3AED?style=for-the-badge&logo=github&logoColor=white)](./01-Processamento-de-Imagens/)
 
 ---
 
@@ -72,7 +72,7 @@ Identificação de formas geométricas utilizando técnicas de limiarização, a
 
 **Tecnologias:** Python e OpenCV.
 
-[![VER PROJETO](https://img.shields.io/badge/VER_PROJETO-9333EA?style=for-the-badge&logo=github&logoColor=white)](./02-Deteccao-de-Objetos/)
+[![VER PROJETO](https://img.shields.io/badge/VER_PROJETO-A855F7?style=for-the-badge&logo=github&logoColor=white)](./03-Deteccao-Facial/)
 
 ---
 
