@@ -1,9 +1,12 @@
-
 <div align="center">
 
 # 💜 VISÃO COMPUTACIONAL
 
-### Projetos com Python e OpenCV
+![Visão Computacional](https://img.shields.io/badge/VISÃO%20COMPUTACIONAL-7C3AED?style=for-the-badge&labelColor=7C3AED)
+
+### Python • OpenCV • SENAI
+
+</div>
 
 **Projetos acadêmicos desenvolvidos durante o curso de Programação em IA Generativa — SENAI Frederico Jacob.**
 
