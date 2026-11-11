@@ -1,10 +1,20 @@
+
 <div align="center">
 
-# 💜 VISÃO COMPUTACIONAL
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1065,50:7C3AED,100:C084FC&height=180&section=header&text=VISÃO%20COMPUTACIONAL&fontSize=42&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
 
-![Visão Computacional](https://img.shields.io/badge/VISÃO%20COMPUTACIONAL-7C3AED?style=for-the-badge&labelColor=7C3AED)
+</div>
 
-### Python • OpenCV • SENAI
+<div align="center">
+
+### Projetos em Python e OpenCV
+
+Projetos acadêmicos desenvolvidos durante o curso de Programação em Inteligência Artificial Generativa do SENAI.
+
+<br>
+
+![STATUS](https://img.shields.io/badge/STATUS-CONCLUÍDO-7C3AED?style=for-the-badge)
+![PROJETO](https://img.shields.io/badge/PROJETO-ACADÊMICO-A855F7?style=for-the-badge)
 
 </div>
 
@@ -12,11 +22,14 @@
 
 <br>
 
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/PYTHON-6D28D9?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OPENCV-9333EA?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-C084FC?style=for-the-badge&logo=numpy&logoColor=white)
 
 <br>
+
 
 [![STATUS](https://img.shields.io/badge/STATUS-CONCLUÍDO-7C3AED?style=for-the-badge)](#)
 [![TIPO](https://img.shields.io/badge/PROJETO-ACADÊMICO-A855F7?style=for-the-badge)](#)
